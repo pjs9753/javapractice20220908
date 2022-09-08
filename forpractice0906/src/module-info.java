@@ -1,0 +1,2 @@
+module forpractice0906 {
+}
